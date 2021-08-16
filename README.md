@@ -7,7 +7,7 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on projects I find interesting, recently working with documents and fancy charts though.
 - 🤔 I’m looking for help with converting PDF tables into excel files
-- 💬 Ask me about: Gacha games, mythology or Tomcat deployment
+- 💬 Ask me about: Gacha games, mythology or the battle of porpoises
 - 📫 How to reach me: Discord tag: `RodizipaZX#6264`, [Facebook](https://facebook.com/rodizipa) or [LinkedIn](https://www.linkedin.com/in/rodizipa/)
 - ⚡ Fun fact: The fact that I am a generalist means I have lot of unrelated knowledge that most of times I won't use anyway 😢
 
