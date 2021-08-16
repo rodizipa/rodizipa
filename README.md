@@ -39,6 +39,5 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - Rust/Kotlin
 - Cloud Architecture design patterns
 - CyberSecurity basics
+- Automating stuff in a background window process without interfering with other elements on screen (Mostly for personal use 🐱‍👤
 - Spaaaaace
-
-![portal 2 space core](https://c.tenor.com/Bn7v4GVBvfkAAAAC/space-core.gif "Portal 2 Space Core")
