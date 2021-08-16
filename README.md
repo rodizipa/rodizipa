@@ -41,3 +41,6 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - CyberSecurity basics
 - Automating stuff in a background window process without interfering with other elements on screen (Mostly for personal use 🐱‍👤)
 - Spaaaaace
+
+## Planned Side Projects that maybe I can help you or want some help
+- A PDF table to Spreadsheets migrator
