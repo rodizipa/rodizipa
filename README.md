@@ -39,5 +39,5 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - Rust/Kotlin
 - Cloud Architecture design patterns
 - CyberSecurity basics
-- Automating stuff in a background window process without interfering with other elements on screen (Mostly for personal use 🐱‍👤
+- Automating stuff in a background window process without interfering with other elements on screen (Mostly for personal use 🐱‍👤)
 - Spaaaaace
