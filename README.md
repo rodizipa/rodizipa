@@ -11,7 +11,7 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - 📫 How to reach me: Discord tag: `RodizipaZX#6264`, [Facebook](https://facebook.com/rodizipa) or [LinkedIn](https://www.linkedin.com/in/rodizipa/)
 - ⚡ Fun fact: The fact that I am a generalist means I have lot of unrelated knowledge that most of times I won't use anyway 😢
 
-## Languages
+## Languages:
 - Brazilian Portuguese (native)
 - English (Working on my pronounciation, but it is kinda advanced besides that)
 - Japanese (N5 - Translates to very basic)
@@ -34,17 +34,11 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - Basic Message Service (Using ActiveMQ at moment)
 - Discord API and bot shenanigans
 
-<!--
-**rodizipa/rodizipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stuff I am learning/planning to:
+- Design Patterns (revisiting concepts)
+- Rust/Kotlin
+- Cloud Architecture design patterns
+- CyberSecurity basics
+- Spaaaaace
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![portal 2 space core](https://tenor.com/IQaq.gif "Portal 2 Space Core")
