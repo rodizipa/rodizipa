@@ -32,6 +32,7 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - Spring
 - Docker
 - Basic Message Service (Using ActiveMQ at moment)
+- Discord API and bot shenanigans
 
 <!--
 **rodizipa/rodizipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
