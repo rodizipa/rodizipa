@@ -41,4 +41,4 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - CyberSecurity basics
 - Spaaaaace
 
-![portal 2 space core](https://tenor.com/IQaq.gif "Portal 2 Space Core")
+![portal 2 space core](https://c.tenor.com/Bn7v4GVBvfkAAAAC/space-core.gif "Portal 2 Space Core")
