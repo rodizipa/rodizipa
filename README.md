@@ -1,4 +1,4 @@
-### Hello traveler, sit down and rest!
+### Hello traveler, sit down and rest a bit tea ☕
 
 My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuff. I am a generalist and usually my interests includes learning new languages, listening all kinds of music, learning history and geography, random facts, technology and reading (usually novels). I am Brazilian btw.
 
