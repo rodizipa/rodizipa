@@ -4,7 +4,7 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 
 ## TLDR
 - 🔭 I’m currently working on an ETL/Notifications/Dashboards/Documents generator application called Orion
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning JPA and Rest architecture standards
 - 👯 I’m looking to collaborate on projects I find interesting, recently working with documents and fancy charts though.
 - 🤔 I’m looking for help with converting PDF tables to spreadsheet files
 - 💬 Ask me about: Gacha games, mythology or the battle of porpoises
@@ -37,6 +37,7 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 ## Stuff I am learning/planning to:
 - Design Patterns (revisiting concepts)
 - Rust/Kotlin
+- Kubernetes
 - Cloud Architecture design patterns
 - CyberSecurity basics
 - Automating stuff in a background window process without interfering with other elements on screen (Mostly for personal use 🐱‍👤)
