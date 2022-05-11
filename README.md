@@ -3,18 +3,19 @@
 My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuff. I am a generalist and usually my interests includes learning new languages, listening all kinds of music, learning history and geography, random facts, technology and reading (usually novels). I am Brazilian btw.
 
 ## TLDR
-- 🔭 I’m currently working on an ETL/Notifications/Dashboards/Documents generator application called Orion
-- 🌱 I’m currently learning JPA and Rest architecture standards
-- 👯 I’m looking to collaborate on projects I find interesting, recently working with documents and fancy charts though.
+- 🔭 I’m currently working with a conversational AI platform called [eva](https://eva.bot)
+- 🌱 Currently learning about Istio service mesh and observabilities
+- 👯 I’m looking to collaborate on projects I find interesting, recently interested in gaming modding.
 - 🤔 I’m looking for help with converting PDF tables to spreadsheet files
 - 💬 Ask me about: Gacha games, mythology or the battle of porpoises
-- 📫 How to reach me: Discord tag: `RodizipaZX#6264`, [Facebook](https://facebook.com/rodizipa) or [LinkedIn](https://www.linkedin.com/in/rodizipa/)
+- 📫 How to reach me: Discord tag: `RodizipaZX#8984`, [Facebook](https://facebook.com/rodizipa) or [LinkedIn](https://www.linkedin.com/in/rodizipa/)
 - ⚡ Fun fact: The fact that I am a generalist means I have lot of unrelated knowledge that most of times I won't use anyway 😢
 
 ## Languages:
 - Brazilian Portuguese (native)
 - English (Working on my pronounciation, but it is kinda advanced besides that)
 - Japanese (N5 - Translates to very basic)
+- Learning Spanish
 - Planning to learn Mandarin
 
 ## Stuff that I think I know the basics:
