@@ -8,15 +8,15 @@ My name is Rodrigo, I am an avid gamer and programmer. I enjoy learning new stuf
 - 👯 I’m looking to collaborate on projects I find interesting, recently interested in gaming modding.
 - 🤔 I’m looking for help with converting PDF tables to spreadsheet files
 - 💬 Ask me about: Gacha games, mythology or the battle of porpoises
-- 📫 How to reach me: Discord tag: `RodizipaZX#8984`, [Facebook](https://facebook.com/rodizipa) or [LinkedIn](https://www.linkedin.com/in/rodizipa/)
+- 📫 How to reach me: Discord: `rodizipa`, [Facebook](https://facebook.com/rodizipa) or [LinkedIn](https://www.linkedin.com/in/rodizipa/)
 - ⚡ Fun fact: The fact that I am a generalist means I have lot of unrelated knowledge that most of times I won't use anyway 😢
 
 ## Languages:
 - Brazilian Portuguese (native)
 - English (Working on my pronounciation, but it is kinda advanced besides that)
 - Japanese (N5 - Translates to very basic)
-- Learning Spanish
-- Planning to learn Mandarin
+- Spanish (Basic level)
+- Learning Mandarin
 
 ## Stuff that I think I know the basics:
 - CSS/Html/Javacript
